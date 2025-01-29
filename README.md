@@ -21,8 +21,8 @@ This repository contains a bash script to automate the installation and configur
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/vBathuN/linux
-    cd RDP
+    git clone https://github.com/vBathuN
+    cd linux
     ```
 
 2. **Edit the Script (optional)**
