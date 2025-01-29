@@ -21,7 +21,7 @@ This repository contains a bash script to automate the installation and configur
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/epic-miner/RDP
+    git clone https://github.com/vBathuN/linux
     cd RDP
     ```
 
@@ -37,7 +37,7 @@ This repository contains a bash script to automate the installation and configur
 4. **(optional) run scrypt**
 
    ```bash
-   sudo sh rdp3.sh
+   sudo sh mrtenrdp.sh
    ```
    
     This script must be run with `sudo` to perform the necessary system changes.
